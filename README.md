@@ -1,2 +1,2 @@
-# lightcurve-challenge
+# lightcurve-lisk-challenge
 Lightcure / Lisk Protocol
